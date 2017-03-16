@@ -10,4 +10,5 @@
     <link rel="stylesheet" href="<?php echo base_url('assets/css/font-awesome.min.css') ?>">
     <link rel="stylesheet" href="<?php echo base_url('assets/css/animate.css') ?>">
     <link rel="stylesheet" href="<?php echo base_url('assets/css/style.css') ?>">
+    <link rel="stylesheet" href="<?php echo base_url('assets/emoji-css/_site/emoji.css') ?>">
 </head>

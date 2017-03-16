@@ -166,7 +166,7 @@ Tidak hanya itu, Bali menawarkan jauh lebih banyak. Ada getaran khusus, esensi, 
       <div class="row">
           <div class="col-md-6">
               <div class="footer">
-                  Build with 
+                  Build with <i class="em em-heart"></i> by <a href="http://github.com/ffadilaputra">Ivan Fadila Putra</a>
               </div>
           </div>
           <div class="col-md-6 text-right">
