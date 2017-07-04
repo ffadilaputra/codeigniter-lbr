@@ -1,4 +1,4 @@
-  <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60" onload="myFunction()">
+  <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60" >
   <div class="header">
       <div class="bg-color">
         <header id="main-header">
@@ -15,8 +15,9 @@
             <div class="collapse navbar-collapse" id="lauraMenu">
               <ul class="nav navbar-nav navbar-right navbar-border">
                 <li class="active"><a href="#main-header">Home</a></li>
+                <li><a href="<?php echo base_url('blog') ?>">Blog</a></li>
                 <li><a href="#about">About Bali</a></li>
-                <li><a href="#portfolio">Destination</a></li>
+                <li><a href="#portofolio">Destination</a></li>
                 <li><a href="#testimonial">Testimonial</a></li>
                 <li><a href="#contact">Contact Us</a></li>
               </ul>
@@ -72,17 +73,17 @@ Tidak hanya itu, Bali menawarkan jauh lebih banyak. Ada getaran khusus, esensi, 
         <div class="col-md-12">
           <div id="myGrid" class="grid-padding">
           <div class="col-md-4 col-sm-4 padding-right-zero">
-            <img src="<?php echo base_url('assets/img/1.JPG') ?>" class="img-responsive">
-            <img src="<?php echo base_url('assets/img/7.JPG') ?>" class="img-responsive">
+            <img src="<?php echo base_url('assets/img/1.jpg') ?>" class="img-responsive">
+            <img src="<?php echo base_url('assets/img/7.jpg') ?>" class="img-responsive">
           </div>
           <div class="col-md-4 col-sm-4 padding-right-zero">
-            <img src="<?php echo base_url('assets/img/2.JPG') ?>" class="img-responsive">
-            <img src="<?php echo base_url('assets/img/3.JPG') ?>" class="img-responsive">
-            <img src="<?php echo base_url('assets/img/8.JPG') ?>" class="img-responsive">
+            <img src="<?php echo base_url('assets/img/2.jpg') ?>" class="img-responsive">
+            <img src="<?php echo base_url('assets/img/3.jpg') ?>" class="img-responsive">
+            <img src="<?php echo base_url('assets/img/8.jpg') ?>" class="img-responsive">
           </div>
           <div class="col-md-4 col-sm-4 padding-right-zero">
-             <img src="<?php echo base_url('assets/img/4.JPG') ?>" class="img-responsive">
-              <img src="<?php echo base_url('assets/img/5.JPG') ?>" class="img-responsive">
+             <img src="<?php echo base_url('assets/img/4.jpg') ?>" class="img-responsive">
+              <img src="<?php echo base_url('assets/img/5.jpg') ?>" class="img-responsive">
           </div>
           </div>
         </div>
